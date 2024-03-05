@@ -1,0 +1,122 @@
+img {
+    width: 200px;
+    height: 300px;
+    object-fit: scale-down;
+
+}
+
+.container{
+background-color: rgb(231, 38, 119);
+width: 100%;
+display: flex;
+justify-content: space-between;
+flex-flow: wrap;
+border-radius: 12px;
+
+}
+
+.card-1 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-1.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+  
+}
+
+.card-2 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-2.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+
+}
+
+.card-3 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-3.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+
+}
+
+.card-4 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-4.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+
+}
+
+.card-5 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-5.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+
+}
+
+.card-6 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-6.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+
+}
+
+.card-7 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-7.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+}
+
+.card-8 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-8.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+}
+
+.card-9 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-9.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+}
+
+.card-10 {
+    color: blueviolet;
+    font-size: 30px;
+    background-image: url('picture-10.jpg');
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    background-position: center;
+}   
